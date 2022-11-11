@@ -2,7 +2,7 @@ Hello! I'm Larry Du, a computer engineering student at University of Illinois Ur
 
 I love creating projects like games, apps, and websites.
 
-Currently I'm working on C++ OpenGL ant simulations as well as a full stack web app for university using React and Django. Stay tuned for updates!
+Currently I'm working on C++ OpenGL ant simulations as well as analog/digital signal processing for sound synthesis on FPGA. Stay tuned for updates!
 
 Some of my projects:
 
